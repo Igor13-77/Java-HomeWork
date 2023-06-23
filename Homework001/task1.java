@@ -1,4 +1,4 @@
-package Homework1;
+package Homework001;
 
 /**
  * task1
