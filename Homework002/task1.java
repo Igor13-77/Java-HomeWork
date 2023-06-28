@@ -2,6 +2,7 @@
 // используя StringBuilder. Данные для фильтрации приведены ниже в виде json строки.
 // Если значение null, то параметр не должен попадать в запрос.
 // Параметры для фильтрации: {"name":"Ivanov", "country":"Russia", "city":"Moscow", "age":"null"}
+
 public class task1 {
     public static void main(String[] args) throws Exception {
       String [] list = lib.ReadLineFromFile("dataForSelect.txt"); 
