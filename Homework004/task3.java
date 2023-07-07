@@ -4,7 +4,7 @@
  * Калькулятор вычисляет результат и проверяет, что в стэке получилось единственное число.
  */
 
- package HW4;
+ package Homework004;
 
  import java.util.ArrayDeque;
  import java.util.Arrays;

@@ -2,7 +2,7 @@
  * Пусть дан LinkedList с несколькими элементами. Реализуйте метод, который вернет “перевернутый” список.
  */
 
- package HW4;
+ package Homework004;
 
  import java.util.ArrayDeque;
  

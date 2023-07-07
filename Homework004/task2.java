@@ -4,7 +4,7 @@
    first() - возвращает первый элемент из очереди, не удаляя.
  */
 
- package HW4;
+ package Homework004;
 
  import java.util.ArrayDeque;
  
